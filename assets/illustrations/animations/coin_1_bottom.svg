@@ -1,0 +1,62 @@
+<svg width="100" height="96" viewBox="0 0 100 96" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.4" filter="url(#filter0_g_2191_4017)" style="mix-blend-mode:plus-darker">
+<ellipse cx="48.2682" cy="78.5" rx="34.5" ry="3.5" fill="url(#paint0_linear_2191_4017)"/>
+</g>
+<path d="M88.2748 49.5288C88.2748 60.7661 72.5812 69.875 53.2268 69.875C33.8725 69.875 18.1788 60.7661 18.1788 49.5288V42.0227H88.2792V49.5288H88.2748Z" fill="url(#paint1_linear_2191_4017)"/>
+<path d="M53.2229 62.465C72.5794 62.465 88.271 53.3556 88.271 42.1187C88.271 30.8817 72.5794 21.7724 53.2229 21.7724C33.8665 21.7724 18.1749 30.8817 18.1749 42.1187C18.1749 53.3556 33.8665 62.465 53.2229 62.465Z" fill="url(#paint2_linear_2191_4017)"/>
+<path d="M53.3014 62.5133C72.6579 62.5133 88.271 53.265 88.271 42.028C88.271 30.7911 72.5794 21.6818 53.2229 21.6818C33.8665 21.6818 18.1749 30.7911 18.1749 42.028C18.1749 53.8258 33.9449 62.5133 53.3014 62.5133Z" fill="url(#paint3_linear_2191_4017)"/>
+<path d="M53.2239 58.0218C69.5921 58.0218 82.8612 50.7483 82.8612 41.776C82.8612 32.8037 69.5921 25.5303 53.2239 25.5303C36.8556 25.5303 23.5865 32.8037 23.5865 41.776C23.5865 50.7483 36.8556 58.0218 53.2239 58.0218Z" fill="url(#paint4_radial_2191_4017)"/>
+<defs>
+<filter id="filter0_g_2191_4017" x="-3.43323e-05" y="61.2318" width="96.5364" height="34.5364" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feTurbulence type="fractalNoise" baseFrequency="0.99900001287460327 0.99900001287460327" numOctaves="3" seed="8176" />
+<feDisplacementMap in="shape" scale="27.536445617675781" xChannelSelector="R" yChannelSelector="G" result="displacedImage" width="100%" height="100%" />
+<feMerge result="effect1_texture_2191_4017">
+<feMergeNode in="displacedImage"/>
+</feMerge>
+</filter>
+<linearGradient id="paint0_linear_2191_4017" x1="18.4096" y1="79.4949" x2="84.2594" y2="99.9985" gradientUnits="userSpaceOnUse">
+<stop stop-color="#784E90" stop-opacity="0"/>
+<stop offset="1" stop-color="#784E90"/>
+</linearGradient>
+<linearGradient id="paint1_linear_2191_4017" x1="21.123" y1="55.9489" x2="86.603" y2="55.9489" gradientUnits="userSpaceOnUse">
+<stop stop-color="#B473F3"/>
+<stop offset="0.03" stop-color="#C088EF"/>
+<stop offset="0.09" stop-color="#DAB2E7"/>
+<stop offset="0.14" stop-color="#EDD1E2"/>
+<stop offset="0.19" stop-color="#F8E4DF"/>
+<stop offset="0.22" stop-color="#FDEBDE"/>
+<stop offset="0.32" stop-color="#FDEBDE"/>
+<stop offset="0.42" stop-color="#D39ADF"/>
+<stop offset="0.52" stop-color="#AC4FE0"/>
+<stop offset="0.59" stop-color="#9420E0"/>
+<stop offset="0.62" stop-color="#8B0EE1"/>
+<stop offset="0.93" stop-color="#420465"/>
+</linearGradient>
+<linearGradient id="paint2_linear_2191_4017" x1="18.1749" y1="42.1187" x2="88.2753" y2="42.1187" gradientUnits="userSpaceOnUse">
+<stop offset="0.39" stop-color="#FDEBDE"/>
+<stop offset="0.53" stop-color="#FBE8DE"/>
+<stop offset="0.62" stop-color="#F6DFDF"/>
+<stop offset="0.7" stop-color="#EDD1E2"/>
+<stop offset="0.76" stop-color="#E0BCE6"/>
+<stop offset="0.83" stop-color="#D0A1EA"/>
+<stop offset="0.88" stop-color="#BC81F0"/>
+<stop offset="0.9" stop-color="#B473F3"/>
+</linearGradient>
+<linearGradient id="paint3_linear_2191_4017" x1="84.4235" y1="42.028" x2="9.90254" y2="42.028" gradientUnits="userSpaceOnUse">
+<stop offset="0.39" stop-color="#A248E9"/>
+<stop offset="0.59" stop-color="#A34AE9"/>
+<stop offset="0.72" stop-color="#A653EB"/>
+<stop offset="0.82" stop-color="#AC61EE"/>
+<stop offset="0.9" stop-color="#B473F3"/>
+</linearGradient>
+<radialGradient id="paint4_radial_2191_4017" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(36.4533 42.1173) scale(44.7447 47.8914)">
+<stop offset="0.58" stop-color="#B473F3"/>
+<stop offset="0.64" stop-color="#BB7FF0"/>
+<stop offset="0.75" stop-color="#CF9FEB"/>
+<stop offset="0.88" stop-color="#EED3E2"/>
+<stop offset="0.94" stop-color="#FDEBDE"/>
+</radialGradient>
+</defs>
+</svg>
