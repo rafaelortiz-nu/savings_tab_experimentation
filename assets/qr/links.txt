@@ -1,4 +1,0 @@
-exp://jrd9njs-rafaelortiz-8081.exp.direct/--/savings-open-finance
-exp://jrd9njs-rafaelortiz-8081.exp.direct/--/savings-migrating-investments
-exp://jrd9njs-rafaelortiz-8081.exp.direct/--/savings-3-boxes-created
-exp://jrd9njs-rafaelortiz-8081.exp.direct/--/savings-1-box

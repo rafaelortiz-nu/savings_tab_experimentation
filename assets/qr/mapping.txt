@@ -1,4 +1,0 @@
-savings-open-finance|exp://jrd9njs-rafaelortiz-8081.exp.direct/--/savings-open-finance|/Users/rafael.ortiz/Desktop/Cursor/March/Savings Tab - V.2/savings-tab-expo/assets/qr/savings-open-finance.png
-savings-migrating-investments|exp://jrd9njs-rafaelortiz-8081.exp.direct/--/savings-migrating-investments|/Users/rafael.ortiz/Desktop/Cursor/March/Savings Tab - V.2/savings-tab-expo/assets/qr/savings-migrating-investments.png
-savings-3-boxes-created|exp://jrd9njs-rafaelortiz-8081.exp.direct/--/savings-3-boxes-created|/Users/rafael.ortiz/Desktop/Cursor/March/Savings Tab - V.2/savings-tab-expo/assets/qr/savings-3-boxes-created.png
-savings-1-box|exp://jrd9njs-rafaelortiz-8081.exp.direct/--/savings-1-box|/Users/rafael.ortiz/Desktop/Cursor/March/Savings Tab - V.2/savings-tab-expo/assets/qr/savings-1-box.png
